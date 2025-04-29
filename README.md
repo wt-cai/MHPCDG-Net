@@ -1,7 +1,7 @@
-🌟 数据与代码声明
-📁 The RGB and hyperspectral image data used in this study are openly available for research purposes.
-    Data: https://xxx
-💻 The source code will be fully open-sourced following the paper's acceptance. 
-📢 stay tuned!
+#🌟 数据与代码声明
+#📁 The RGB and hyperspectral image data used in this study are openly available for research purposes.
+    Data: https://pan.baidu.com/s/1PZQ6He1ddsb6uJeb6ZLurg password: msr6)
+#💻 The source code will be fully open-sourced following the paper's acceptance. 
+#📢 stay tuned!
 
 
